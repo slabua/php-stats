@@ -1,0 +1,97 @@
+////////////////////////////////
+//  PHP-STATS ENGINE DEFS     //
+//  http://www.php-stats.com  //
+////////////////////////////////
+
+abcsearch.com|http://*abcsearch.com/*|terms=
+Abacho|http://*.abacho.com/*|q=
+100Links|http://100links.supereva.it/*|q=
+Alexa|http://*alexa.com/*|q=
+Alltheweb|http://*alltheweb.com/*|q=
+Altavista|http://*altavista.com/*|q=
+Aol|http://*aol.com/*|query=
+Ask.com|http://*ask.com/*|ask=
+Arianna|http://arianna.libero.it/*|query=
+DMOZ|http://search.dmoz.org/*|search= 
+Dogpile.com|http://*dogpile.com/*|q=
+Excite|http://*excite.*/*|q=
+Excite|http://*excite.*/*|key=
+Excite|http://*excite.*/*|qkw=
+Excite|http://*excite.*/*|search=
+Godago|http://*godado.it/*|keywords=
+Google.it|http://*gogle.it/*|q=
+Google.at|http://*google.at/*|q=
+Google.be|http://*google.be/*|q=
+Google.ca|http://*google.ca/*|q=
+Google.co.il|http://*google.co.il/*|q=
+Google.co.in|http://*google.co.in/*|q= 
+Google.co.jp|http://*google.co.jp/*|q=
+Google.co.hu|http://*google.co.hu/*|q=
+Google.co.kr|http://*google.co.kr/*|q=
+Google.co.nz|http://*www.google.co.nz/*|q=
+Google.co.th|http://*google.co.th/*|q=
+Google.co.uk|http://*google.co.uk/*|q=
+Google.com.ar|http://*google.com.ar/*|q=
+Google.com.br|http://*google.com.br/*|q=
+Google.com.au|http://*google.com.au/*|q=
+Google.com.br|http://*google.com.br/*|q=
+Google.com.gr|http://*google.com.gr/*|q= 
+Google.com.mt|http://*google.com.mt/*|q=
+Google.com.pe|http://*google.com.pe/*|q=
+Google.com.ru|http://*google.com.ru/*|q=
+Google.com.tr|http://*google.com.tr/*|q= 
+Google.com|http://*google.com/*|q=
+Google.ch|http://*google.ch/*|q=
+Google.cl|http://*google.cl/*|q=
+Google.de|http://*google.de/*|q=
+Google.es|http://*google.es/*|q=
+Google.fi|http://*google.fi/*|q=
+Google.fr|http://*google.fr/*|q=
+Google.it|http://*google.it/*|q=
+Google.lt|http://*google.lt/*|q=
+Google.lv|http://*google.lv/*|q=
+Google.nl|http://*google.nl/*|q=
+Google.pl|http://*google.pl/*|q=
+Google.pt|http://*google.pt/*|q=
+Google.se|http://*google.se/*|q=
+Google-icq|http://*google.icq.com/*|q=
+Google Groups|http://groups.google.*|q=
+HotBot|http://*hotbot.com/*|query=
+Il Trovatore|http://categorie.iltrovatore.it/*|query=
+Il Trovatore|http://search.iltrovatore.it/*|q=
+ixquick|http://*ixquick.com/*|query=
+Lycos|http://*lycos.*/*|q=
+Lycos|http://*lycos.*/*|query=
+My Search|http://*mysearch.com/*|searchfor=
+My Way|http://*mysearch.myway.com/*|searchfor=
+Metacrawler|http://*metacrawler.com/*|q=
+Netscape Search|http://search.netscape.com/*|query=
+MSN.it|http://*msn.it/*|q=
+MSN.de|http://*msn.de/*|q=
+MSN.dk|http://*msn.dk/*|q=
+MSN|http://*msn.*/*|q=
+Search.ch|http://*search.ch/search*|q=
+Search.com|http://*search.com/*|q=
+Search the Web|http://*sbnl.com/search/*|s=
+Search the Web|http://srch.lop.com/search/*|s=
+Supereva|http://*.supereva.it/*|q=
+Teoma|http://*teoma.com/*|q=
+Tiscali|http://search-dyn.tiscali.it/*|key=
+Virgilio|http://search.virgilio.it/*|qs=
+Voilà.Fr|http://*voila.fr/*|kw=
+Web.de|http://*web.de/*|su=
+Yahoo|http://*yahoo.com/*|p=
+Yahoo|http://*search.yahoo.com/*|va=
+
+
+///////////////////////////
+// Altri motori Italiani //
+///////////////////////////
+Bismark.it|http://bismark.caltanet.it/metasearch/*|query=
+Clarence|http://*search.clarence.com/*|q=
+Clarence|http://*search.clarence.com/*|query=
+Gazzetta.it|*search.gazzetta.it/cgi-bin/*|q=
+PagineGialle|http://*paginegialle.virgilio.it/*|qs=
+Jumpy|http://*jumpy.it/Ricerca/*|searchWord=
+ItaliaPuntoNet|http://*italiapuntonet.net/search/*|search=
+Kataweb|http://*kataweb.it/search/*|q=

@@ -1,2 +1,2 @@
-php-stats
+Php-Stats
 =========

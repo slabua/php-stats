@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /def/
+Disallow: /doc/
+Disallow: /images/
+Disallow: /inc/
+Disallow: /lang/
+Disallow: /setup_files/
+Disallow: /stili/
+Disallow: /templates/
+Disallow: /update_files/

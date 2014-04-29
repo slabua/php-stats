@@ -1,0 +1,32 @@
+#Nome visualizzato|stringa da cercare|stringa prima della versione|macrocategoria
+Avant Browser|AvantBrowser|MSIE|Explorer
+Firefox|Phoenix|Phoenix/|Mozilla
+Firefox|Firebird|Firebird/|Mozilla
+Firefox|Firefox|Firefox/|Mozilla
+KMeleon|K-Meleon|K-Meleon/|Mozilla
+Beonex|Beonex|Beonex/|Mozilla
+Camino|Camino|Camino/|Mozilla
+Camino|Chimera|Chimera/|Mozilla
+Epiphany|Epiphany|Epiphany/|Mozilla
+Opera|Opera|Opera/|Opera
+Opera|Opera|Opera|Opera
+Pocket Internet Explorer|MSPIE|MSPIE|Explorer
+Pocket Internet Explorer|MicrosoftPocketInternetExplorer|MicrosoftPocketInternetExplorer/|Explorer
+Explorer|MSIE|MSIE|Explorer
+Netscape|Netscape|Netscape6/|Mozilla
+Netscape|Netscape|Netscape/|Mozilla
+Safari|Safari|Safari/|Safari
+#HTTrack|HTTrack
+Konqueror|Konqueror|Knoqueror/|Konqueror
+Galeon|Galeon|Galeon/|Galeon
+Mozilla|Gecko|rv:|Mozilla
+WebCopier|Webcopier|Webcopierv|Grabber
+Teleport|Teleport|TeleportPro/|Grabber
+WebZIP|WebZIP|WebZIP/|Grabber
+Wget|Wget|Wget/|Grabber
+Links|Links|Links(|Links
+Lynx|Lynx|Lynx/|Lynx
+PlanetWeb|Planetweb|Planetweb/|PlanetWeb
+WebTV|WebTV|WebTV/|WebTV
+OmniWeb|OmniWeb|OmniWeb/|OmniWeb
+Netscape|Mozilla|Mozilla/|Netscape
